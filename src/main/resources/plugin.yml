@@ -1,0 +1,32 @@
+name: DFInhibition
+version: '2.0.2'
+main: uk.co.nikodem.dFInhibition.DFInhibition
+api-version: '1.20'
+commands:
+  startsmp:
+    description: "Starts the SMP. Needs to be ran from the console."
+    usage: "/startsmp"
+  prepsmp:
+    description: "Preps the world for SMP. Needs to be ran from the console."
+    usage: "/prepsmp"
+  enablepvp:
+    description: "Enables pvp. Needs to be ran from the console."
+    usage: "/enablepvp"
+  enablenether:
+    description: "Enables the nether. Needs to be ran from the console."
+    usage: "/enablenether"
+  enableend:
+    description: "Enables the end. Needs to be ran from the console."
+    usage: "/enableend"
+  disableinv:
+    description: "Disables keep inventory. Needs to be ran from the console."
+    usage: "/disableinv"
+  setwb1:
+    description: "Sets world border to position 1. Needs to be ran from the console."
+    usage: "/setwb1"
+  setwb2:
+    description: "Sets world border to position 2. Needs to be ran from the console."
+    usage: "/setwb2"
+  setwb3:
+    description: "Sets world border to position 3. Needs to be ran from the console."
+    usage: "/setwb3"

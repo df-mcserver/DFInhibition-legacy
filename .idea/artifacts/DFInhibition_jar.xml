@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DFInhibition:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/DFInhibition_jar</output-path>
+    <root id="archive" name="DFInhibition.jar">
+      <element id="module-output" name="DFInhibition" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/main/resources/plugin.yml" />
+    </root>
+  </artifact>
+</component>
